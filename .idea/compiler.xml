@@ -9,12 +9,14 @@
         <module name="microservicecloud-api" />
         <module name="microservicecloud-consumer-dept-80" />
         <module name="microservicecloud-provider-dept-8001" />
+        <module name="microservicecloud-eureka-7001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="micro-service-cloud" target="1.8" />
       <module name="microservicecloud-api" target="1.8" />
       <module name="microservicecloud-consumer-dept-80" target="1.8" />
+      <module name="microservicecloud-eureka-7001" target="1.8" />
       <module name="microservicecloud-provider-dept-8001" target="1.8" />
     </bytecodeTargetLevel>
   </component>
