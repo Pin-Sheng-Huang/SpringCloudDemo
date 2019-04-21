@@ -12,6 +12,7 @@
         <module name="microservicecloud-provider-dept-8003" />
         <module name="microservicecloud-consumer-dept-80" />
         <module name="microservicecloud-provider-dept-8001" />
+        <module name="microservicecloud-config-3344" />
         <module name="microservicecloud-consumer-dept-feign" />
         <module name="microservicecloud-provider-dept-8002" />
         <module name="microservicecloud-consumer-hystrix-dashboard" />
@@ -23,6 +24,7 @@
     <bytecodeTargetLevel>
       <module name="micro-service-cloud" target="1.8" />
       <module name="microservicecloud-api" target="1.8" />
+      <module name="microservicecloud-config-3344" target="1.8" />
       <module name="microservicecloud-consumer-dept-80" target="1.8" />
       <module name="microservicecloud-consumer-dept-feign" target="1.8" />
       <module name="microservicecloud-consumer-hystrix-dashboard" target="1.8" />
