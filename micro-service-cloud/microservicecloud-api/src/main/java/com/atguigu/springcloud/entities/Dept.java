@@ -11,7 +11,11 @@ import java.io.Serializable;
 @Data
 @NoArgsConstructor//无参构造
 @AllArgsConstructor//全参构造
-@Accessors(chain = true)//链式调用
+@Accessors(chain = true)//链式调用,链式调用是指在一行代码中依次调用多个 setter 方法，连续设置对象的多个属性
+/*
+EX:Person person = new Person();
+person.setName("John").setAge(30).setAddress("123 Main St");
+* * */
 public class Dept implements Serializable //必须序列化
 {
     private Long deptno;   //主键

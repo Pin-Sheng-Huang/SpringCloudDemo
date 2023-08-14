@@ -11,6 +11,11 @@
     <artifactId>microservicecloud-provider-dept-8001</artifactId>
 
     <dependencies>
+        <!--加這個配置端口號才會變更-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-config-server</artifactId>
+        </dependency>
         <!-- 引入自己定义的api通用包，可以使用Dept部门Entity -->
         <dependency>
             <groupId>com.atguigu.springcloud</groupId>
@@ -38,6 +43,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.33</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>

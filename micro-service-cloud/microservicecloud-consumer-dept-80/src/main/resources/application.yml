@@ -1,6 +1,8 @@
 server:
   port: 80
-
+spring:
+  application:
+    name: springCloudDemo-dept-80
 eureka:
   client:
     register-with-eureka: false

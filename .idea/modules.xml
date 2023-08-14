@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/micro-service-cloud/micro-service-cloud.iml" filepath="$PROJECT_DIR$/micro-service-cloud/micro-service-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud.iml" filepath="$PROJECT_DIR$/micro-service-cloud/microservicecloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-api/microservicecloud-api.iml" filepath="$PROJECT_DIR$/micro-service-cloud/microservicecloud-api/microservicecloud-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-3344/microservicecloud-config-3344.iml" filepath="$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-3344/microservicecloud-config-3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-client-3355/microservicecloud-config-client-3355.iml" filepath="$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-client-3355/microservicecloud-config-client-3355.iml" />

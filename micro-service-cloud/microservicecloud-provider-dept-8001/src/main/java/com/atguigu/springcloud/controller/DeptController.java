@@ -18,6 +18,7 @@ public class DeptController {
 
     @RequestMapping(value = "/dept/add", method = RequestMethod.POST)
     public boolean add(@RequestBody Dept dept) {
+        System.out.println("添加成功");
         return service.add(dept);
     }
 

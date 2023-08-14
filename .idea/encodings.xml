@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/micro-service-cloud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-3344/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-client-3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-client-3355/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-dept-client-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-dept-client-8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-eureka-client-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-config-eureka-client-7001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-consumer-dept-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-consumer-dept-80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-consumer-dept-feign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-consumer-hystrix-dashboard/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-eureka-7001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-eureka-7002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-eureka-7003/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-8002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-8003/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-provider-dept-hystrix-8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-zuul-gateway-9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud/microservicecloud-zuul-gateway-9527/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
